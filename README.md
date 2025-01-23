@@ -37,9 +37,13 @@ In `./UFLA-FORMS/` folder of this repository, a script can be found to load and 
 
 If you find **UFLA-FORMS** useful in your research, please cite our work:
 
-    @misc{uflaforms,
-        title={{UFLA-FORMS: Academic Forms Dataset for the Information Extraction Task}},
-        url={https://github.com/LabRI-Information-Retrieval-Lab/UFLA-FORMS/},
-        author={Victor Lima and Denilson Pereira},
-        year={2024}
+    @article{uflaforms,
+        author={Victor Gonçalves Lima and Denilson Alves Pereira},
+        title={{UFLA-FORMS: an Academic Forms Dataset for Information Extraction in the Portuguese Language}},
+        journal={Language Resources and Evaluation},
+        publisher={Springer},
+        doi={10.1007/s10579-024-09802-3},
+        url={https://doi.org/10.1007/s10579-024-09802-3},
+        misc={PDF: https://rdcu.be/d69VH, dataset: https://github.com/LabRI-Information-Retrieval-Lab/UFLA-FORMS/},
+        year={2025}
     }
