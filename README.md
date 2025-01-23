@@ -1,4 +1,4 @@
-# UFLA-FORMS: Academic Forms Dataset for the Information Extraction Task
+# UFLA-FORMS: an Academic Forms Dataset for Information Extraction in the Portuguese Language
 
 ## About
 
